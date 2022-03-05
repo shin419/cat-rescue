@@ -1,0 +1,24 @@
+.bg {
+  background-color: #ffe8d2;
+}
+p {
+  margin: 0;
+}
+.img-cat {
+  max-width: 60px !important;
+}
+.click-text {
+  cursor: pointer;
+}
+.click-text:hover {
+  color: rgba(248, 166, 49, 0.93);
+}
+.cursor {
+  cursor: pointer;
+}
+.widthScreen {
+  width: 1024px
+}
+.text-color {
+  color: #6c7b8f;
+}
